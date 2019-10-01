@@ -1,6 +1,6 @@
 ---
 title: "Git Remote Repository Change!"
-date: 2017-10-20 08:26:28 -0400
+date: 2010-10-01
 categories: git remote change 깃 리모트 변경
 ---
 # Git Remote Repository Change
