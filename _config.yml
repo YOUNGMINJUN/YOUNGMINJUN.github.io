@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "YOUNGMIN JUN"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "두 아이의 아부지...</br>아마 == 아빠 아니고 엄마?"
+  avatar           : "https://secure.gravatar.com/avatar/357a2800f95efbab29fccc710d4f376a?s=320" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "두 아이의 아부지..."
   location         : "Seoul"
   email            : "youngmin.jun@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:youngmin.jun@gmail.com
+      # url: mailto:youngmin.jun@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://www.coolio.so"
