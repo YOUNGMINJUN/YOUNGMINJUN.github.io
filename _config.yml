@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "YOUNGMIN JUN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "두 아이의 아부지... 아마 == 아빠 아니고 엄마?"
+  bio              : "두 아이의 아부지...</br>아마 == 아빠 아니고 엄마?"
   location         : "Seoul"
   email            : "youngmin.jun@gmail.com"
   links:
