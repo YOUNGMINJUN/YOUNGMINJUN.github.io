@@ -1,3 +1,8 @@
+---
+title: "AICE Associate 시험 준비"
+date: 2024-07-05
+categories: AI 자격증, AICE
+---
 # AICE Associate 시험 준비
 
 ## 탐색적 데이타 분석
