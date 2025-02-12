@@ -1,7 +1,8 @@
 ---
 title: "bigdecimal의-소수점-상수-직접-접근-deprecated에-따른-대응-가이드"
 date: 2025-02-12
-categories: git remote change 깃 리모트 변경
+categories: [Java]
+tags: [BigDecimal, J2SE, Java9, RoundingMode, Deprecated]
 ---
 
 `BigDecimal`의 올림, 내림 등 소수점 처리를 위해서는 `enum RoundingMode`를 사용함  
